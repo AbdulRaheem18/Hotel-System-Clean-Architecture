@@ -1,0 +1,149 @@
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\appsettings.Development.json
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\appsettings.json
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Hotel Management System.exe
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Hotel Management System.deps.json
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Hotel Management System.runtimeconfig.json
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Hotel Management System.runtimeconfig.dev.json
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Hotel Management System.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\ref\Hotel Management System.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Hotel Management System.pdb
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Humanizer.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hotel Management System\Hotel Management System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csprojAssemblyReference.cache
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.AssemblyInfoInputs.cache
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.AssemblyInfo.cs
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csproj.CoreCompileInputs.cache
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.MvcApplicationPartsAssemblyInfo.cs
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\staticwebassets\Hotel Management System.StaticWebAssets.Manifest.cache
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\staticwebassets\Hotel Management System.StaticWebAssets.xml
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\scopedcss\bundle\Hotel Management System.styles.css
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.RazorTargetAssemblyInfo.cache
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csproj.CopyComplete
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.dll
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\ref\Hotel Management System.dll
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.pdb
+D:\Hotel Management System\Hotel Management System\obj\Debug\net5.0\Hotel Management System.genruntimeconfig.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csprojAssemblyReference.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.AssemblyInfoInputs.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.AssemblyInfo.cs
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csproj.CoreCompileInputs.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.MvcApplicationPartsAssemblyInfo.cs
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\ref\Hotel Management System.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\appsettings.Development.json
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\appsettings.json
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Hotel Management System.exe
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Hotel Management System.deps.json
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Hotel Management System.runtimeconfig.json
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Hotel Management System.runtimeconfig.dev.json
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Hotel Management System.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\ref\Hotel Management System.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Hotel Management System.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\AutoMapper.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\FluentValidation.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Humanizer.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\MailKit.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\MediatR.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\MimeKit.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\SimpleSoft.Mediator.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\SimpleSoft.Mediator.Abstractions.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\SimpleSoft.Mediator.Microsoft.Extensions.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\application.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\domain.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\infrastructure.dll
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\infrastructure.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\application.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\bin\Debug\net5.0\domain.pdb
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\staticwebassets\Hotel Management System.StaticWebAssets.Manifest.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\staticwebassets\Hotel Management System.StaticWebAssets.xml
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\scopedcss\bundle\Hotel Management System.styles.css
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.RazorTargetAssemblyInfo.cache
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csproj.CopyComplete
+D:\Hotel Management System\Source\ui\Hotel Management System\obj\Debug\net5.0\Hotel Management System.genruntimeconfig.cache

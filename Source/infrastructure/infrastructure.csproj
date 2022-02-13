@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+   <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>library</OutputType>   
+  </PropertyGroup>
+
+<ItemGroup>    
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />    
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />    
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.6" />
+  </ItemGroup>
+
+<ItemGroup>
+  <ProjectReference Include="..\core\application\application.csproj" />
+</ItemGroup>
+
+<ItemGroup>
+  <Folder Include="Persistence\Configurations\" />
+  <Folder Include="Services\" />
+</ItemGroup>
+
+</Project>

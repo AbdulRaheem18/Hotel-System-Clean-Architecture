@@ -1,0 +1,23 @@
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\bin\Debug\net5.0\domain.deps.json
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\bin\Debug\net5.0\domain.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\bin\Debug\net5.0\ref\domain.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\bin\Debug\net5.0\domain.pdb
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.csproj.AssemblyReference.cache
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.AssemblyInfoInputs.cache
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.AssemblyInfo.cs
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\ref\domain.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\domain\obj\Debug\net5.0\domain.pdb
+D:\Hotel Management System\Source\core\domain\bin\Debug\net5.0\domain.deps.json
+D:\Hotel Management System\Source\core\domain\bin\Debug\net5.0\domain.dll
+D:\Hotel Management System\Source\core\domain\bin\Debug\net5.0\ref\domain.dll
+D:\Hotel Management System\Source\core\domain\bin\Debug\net5.0\domain.pdb
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\domain.AssemblyInfoInputs.cache
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\domain.AssemblyInfo.cs
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\domain.csproj.CoreCompileInputs.cache
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\domain.dll
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\ref\domain.dll
+D:\Hotel Management System\Source\core\domain\obj\Debug\net5.0\domain.pdb

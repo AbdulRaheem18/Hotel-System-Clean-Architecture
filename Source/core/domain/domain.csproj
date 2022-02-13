@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>library</OutputType>   
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="entities\engine\**" />
+    <EmbeddedResource Remove="entities\engine\**" />
+    <None Remove="entities\engine\**" />
+  </ItemGroup>
+
+</Project>

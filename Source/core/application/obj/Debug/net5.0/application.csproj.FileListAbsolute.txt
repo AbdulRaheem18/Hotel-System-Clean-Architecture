@@ -1,0 +1,30 @@
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\bin\Debug\net5.0\application.deps.json
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\bin\Debug\net5.0\application.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\bin\Debug\net5.0\ref\application.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\bin\Debug\net5.0\application.pdb
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\bin\Debug\net5.0\domain.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\bin\Debug\net5.0\domain.pdb
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.csproj.AssemblyReference.cache
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.AssemblyInfo.cs
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.csproj.CopyComplete
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\ref\application.dll
+C:\Users\abdul.raheem\source\repos\RaffleEngine\source\core\application\obj\Debug\net5.0\application.pdb
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.csprojAssemblyReference.cache
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.AssemblyInfo.cs
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.dll
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\ref\application.dll
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.pdb
+D:\Hotel Management System\Source\core\application\bin\Debug\net5.0\application.deps.json
+D:\Hotel Management System\Source\core\application\bin\Debug\net5.0\application.dll
+D:\Hotel Management System\Source\core\application\bin\Debug\net5.0\ref\application.dll
+D:\Hotel Management System\Source\core\application\bin\Debug\net5.0\application.pdb
+D:\Hotel Management System\Source\core\application\bin\Debug\net5.0\domain.dll
+D:\Hotel Management System\Source\core\application\bin\Debug\net5.0\domain.pdb
+D:\Hotel Management System\Source\core\application\obj\Debug\net5.0\application.csproj.CopyComplete
