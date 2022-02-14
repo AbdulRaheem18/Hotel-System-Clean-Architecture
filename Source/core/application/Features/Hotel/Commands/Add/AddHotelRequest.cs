@@ -4,7 +4,7 @@ using System;
 
 namespace application.Features.Hotels.Commands
 {
-    public class AddHotelRequest:BaseFeatureRequest, IRequest<AddHotelResponse>
+    public class AddBookingRequest:BaseFeatureRequest, IRequest<AddBookingResponse>
     {
         public string Description { get; set; }
        

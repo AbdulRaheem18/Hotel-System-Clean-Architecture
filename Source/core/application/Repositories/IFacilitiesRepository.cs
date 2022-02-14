@@ -7,7 +7,7 @@ namespace application.Repositories
 {
     public interface IFacilitiesRepository : IRepository<Facility>
     {
-        Task<Facility> GetByHotelId(int hotelId);
+        Task<Facility> GetByHotelId(Guid hotelId);
         
     }
 }

@@ -2,9 +2,9 @@ using FluentValidation;
 
 namespace application.Features.Hotels.Commands
 {
-    public class AddHotelValidator: AbstractValidator<AddHotelRequest>
+    public class AddBookingValidator: AbstractValidator<AddBookingRequest>
     {
-        public AddHotelValidator()
+        public AddBookingValidator()
         {
             RuleFor(x => x.Name)
             .NotEmpty()

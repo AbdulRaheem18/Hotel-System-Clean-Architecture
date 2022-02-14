@@ -26,4 +26,8 @@
     <ProjectReference Include="..\..\source\core\application\application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="commands\" />
+  </ItemGroup>
+
 </Project>

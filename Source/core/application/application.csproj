@@ -21,6 +21,12 @@
 </ItemGroup>
 
 <ItemGroup>
+  <Folder Include="Features\Booking\Commands\Delete\" />
+  <Folder Include="Features\Booking\Commands\Update\" />
+  <Folder Include="Features\Booking\DTO\" />
+  <Folder Include="Features\Booking\Querries\GetAll\" />
+  <Folder Include="Features\Booking\Querries\GetById\" />
+  <Folder Include="Features\Booking\Querries\GetPagedList\" />
   <Folder Include="Interfaces\" />
 </ItemGroup>
   

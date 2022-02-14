@@ -8,19 +8,19 @@ using MediatR;
 
 namespace application.Features.Hotels.Commands
 {
-    public class AddHotelHandler : IRequestHandler<AddHotelRequest, AddHotelResponse>
+    public class AddbookingHandler : IRequestHandler<AddBookingRequest, AddBookingResponse>
     {
         private readonly IHotelRepository _repository;
        
-        public AddHotelHandler(IHotelRepository repository)
+        public AddbookingHandler(IHotelRepository repository)
         {
             _repository = repository;
             
         }
-        public async Task<AddHotelResponse> Handle(AddHotelRequest request, CancellationToken cancellationToken)
+        public async Task<AddBookingResponse> Handle(AddBookingRequest request, CancellationToken cancellationToken)
         {
-            var result = new AddHotelResponse{RequestId = request.RequestId};
-            AddHotelValidator validation = new AddHotelValidator();
+            var result = new AddBookingResponse{RequestId = request.RequestId};
+            AddBookingValidator validation = new AddHotelValidator();
             var validationResult = validation.Validate(request);
             if (validationResult.IsValid)
             {
